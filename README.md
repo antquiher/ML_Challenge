@@ -4,6 +4,8 @@
 
 ---
 
+> ⚠️ This project has been tested only with Python 3.10 and 3.11. Using other versions may lead to unexpected issues.
+
 ## Resumen del proyecto
 
 El objetivo es entrenar un agente capaz de conducir un Duckiebot en el simulador 3D Duckietown usando únicamente píxeles de la cámara frontal, y que generalice a un mapa oculto con obstáculos (`Duckietown-loop_obstacles-v0`). El trabajo se estructura en tres fases:
