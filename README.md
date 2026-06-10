@@ -4,7 +4,7 @@
 
 ---
 
-> ⚠️ This project has been tested only with Python 3.10 and 3.11. Using other versions may lead to unexpected issues.
+> ⚠️ Este proyecto solo funciona con Python 3.10 y 3.11. El uso de cualquier otra versión puede llevar a un malfuncionamiento.
 
 ## Resumen del proyecto
 
